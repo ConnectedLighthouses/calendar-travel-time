@@ -1,0 +1,15 @@
+{
+  "name": "calendar-travel-time",
+  "version": "1.0.0",
+  "main": "travel-time.js",
+  "scripts": {
+    "start": "node travel-time.js"
+  },
+  "dependencies": {
+    "googleapis": "^144.0.0",
+    "dotenv": "^16.4.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
